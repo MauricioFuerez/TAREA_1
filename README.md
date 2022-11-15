@@ -88,18 +88,17 @@ Ejercicios pares:
 
 4. VIDEO
 
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
-En el video se debe explicar 4 ejercicios o problemas.
 
 
 5. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+En este informe se analizo y comprendido los temas implementados en el capitulo 1 y 2, los cuales son indispensables en el conocimiento como la notación científica sus prefijos con sus conversiones que son tan esenciales para próximos aprendizajes. Además, se repasó temas previamente analizados en clases como los de la estructura atómica, los electrones y cómo con estos podemos calcular las cargas. También se resolvió cálculos con el voltaje, corriente y las resistencias. En este último punto se aprendió de igual manera a reconocer el valor de las resistencias y los tipos de resistencias y de circuitos electrónicos que existen. Siendo este informe un medio para aprender mas sobre los implementos de los dispositivos de protección electrónica sus usos y funcionamientos. Con lo visto analizado y aprendido de este informe podemos seguir adelante con los demás temas ya que estas son las bases para seguir interpretando el como cuando y donde se puede implementar un circuito eléctrico
 
 6. BIBLIOGRAFÍA
 
-Emplear normas APA.
+* Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson.
+* Dorf, R., & Svoboda, J. (2015). Circuitos eléctricos. Alpha Editorial.
+* Vásquez, J. R. G. (2008). Teoremas fundamentales de circuitos eléctricos (Doctoral dissertation, Universidad Tecnológica de Pereira. Facultad de Ingenierías Eléctrica, Electrónica, Física y Ciencias de la Computación. Ingeniería Eléctrica.).
+* Gallego Vásquez, J. R. (2008). Teoremas fundamentales de circuitos eléctricos.
+* Carlos, J., & Teresa, M. (2018). Circuitos eléctricos.
 
-RUBRICA
-
-![](https://github.com/doalulema/InformeTarea/blob/main/Tarea.png)
