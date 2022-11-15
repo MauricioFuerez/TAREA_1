@@ -88,7 +88,7 @@ Ejercicios pares:
 
 4. VIDEO
 
-
+https://youtu.be/H7IxWxGvqgA
 
 5. CONCLUSIONES
 
