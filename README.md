@@ -7,6 +7,13 @@ El informe realizado a continuación está evaluado y especificado para la compr
 
 1. OBJETIVOS
 
+* Entender la notación científica con sus usos correctos para las cantidades más grandes y las más pequeñas según su conversión necesaria.
+* Identificar los conceptos básicos de la energía eléctrica , un circuito eléctrico básico y sus riesgos al saberlos.
+* Aprender la aplicación de los voltajes, corriente y resistencias, al igual que sus análisis respectivos.
+
+
+1.2 OBJETIVOS ESPECIFICOS 
+
 * Analizar el estándar SI, la notación científica para representar cantidades.
 * Utilizar la notación científica con sus prefijos para representar cantidades grandes y pequeñas con sus trasformaciones a otras.
 * Explicar la estructura básica de los átomos en el concepto de carga eléctrica
@@ -17,15 +24,9 @@ El informe realizado a continuación está evaluado y especificado para la compr
 
 2. MARCO TEÓRICO (RESUMEN)
 
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
+La notación científica en la Ingeniería se analiza con las Unidades estándar S.I, las cuales en su comprensión, podemos decir que ayudan de forma directa a los cálculos o mediciones al momento de emplearlos como algo exacto que deseamos utilizando inclusive sus mismas conversiones para algo en particular.
 
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
-* Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-* Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-* Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-* Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
 
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
