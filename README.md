@@ -30,9 +30,7 @@ La notación científica en la Ingeniería se analiza con las Unidades estándar
 
 ![2_NotacionCientifica](https://user-images.githubusercontent.com/117534483/201823018-21f39239-b0cd-4ab1-bc55-ea0ef009cdbe.png)
 
-a)2.35x105 = 0.235x106
-b)7.32x107 = 7.32x106
-c)1.333x109= 1,333,000,000
+
 
 
 
