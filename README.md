@@ -20,7 +20,7 @@ El informe realizado a continuación está evaluado y especificado para la compr
 * Definir voltaje, corriente y resistencia y analizar sus características 
 * Analizar una fuente de voltaje, una fuente de corriente y los diversos tipos de valores de las resistencias
 * Describir un circuito eléctrico básico, sus mediciones de circuito básicas 
-* Reconocer los riesgos eléctricos y practicar procedimientos de seguridad
+* Reconocer los riesgos eléctricos
 
 2. MARCO TEÓRICO (RESUMEN)
 
@@ -59,8 +59,32 @@ VOLTAJE, CORRIENTE Y RESISTENCIA
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas.
-La solución deb estar en esta sección, no como un archivo anexo.
+Capitulo 1
+Cantidades y unidades
+Ejercicios pares:
+
+<img width="443" alt="1" src="https://user-images.githubusercontent.com/117534483/201973692-68f511b6-fd07-4e1b-82cd-3a0a80264cc8.png">
+
+<img width="477" alt="2" src="https://user-images.githubusercontent.com/117534483/201973694-eba5210e-7561-483f-8cfc-042d7eeb79d7.png">
+
+<img width="357" alt="3" src="https://user-images.githubusercontent.com/117534483/201973695-89f7a06a-78f7-4970-a22b-edec970a86db.png">
+
+
+Capitulo 2
+VOLTAJE, CORRIENTE Y RESISTENCIA
+Ejercicios pares:
+
+<img width="489" alt="4" src="https://user-images.githubusercontent.com/117534483/201973769-89e16d57-cdcd-4cdf-a94d-40ad422bf8eb.png">
+
+<img width="478" alt="5" src="https://user-images.githubusercontent.com/117534483/201973772-546c2071-2ea0-4218-9339-7472dd6ab0fc.png">
+
+<img width="464" alt="6" src="https://user-images.githubusercontent.com/117534483/201973776-cc9b0323-bf60-41b1-bf03-88d2cd3e3f45.png">
+
+<img width="494" alt="7" src="https://user-images.githubusercontent.com/117534483/201973780-78e56112-2bc2-40fc-93d4-3a1c0e308c99.png">
+
+<img width="415" alt="8" src="https://user-images.githubusercontent.com/117534483/201973786-0b48e21e-12e9-41ca-a496-48a1665d1053.png">
+
+<img width="418" alt="9" src="https://user-images.githubusercontent.com/117534483/201973789-39236039-ebf2-4212-9170-a9ecd8517dd0.png">
 
 4. VIDEO
 
