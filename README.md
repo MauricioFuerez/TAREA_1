@@ -26,7 +26,9 @@ El informe realizado a continuación está evaluado y especificado para la compr
 
 La notación científica en la Ingeniería se analiza con las Unidades estándar S.I, las cuales en su comprensión, podemos decir que ayudan de forma directa a los cálculos o mediciones al momento de emplearlos como algo exacto que deseamos utilizando inclusive sus mismas conversiones para algo en particular.
 
-<img width="946" alt="1_Unidades SI" src="https://user-images.githubusercontent.com/117534483/201822642-56e7d7be-ff68-405c-838f-d6e0f195dad6.png">
+<img width="946" alt="1_Unidades SI" src="https://user-images.githubusercontent.com/117534483/201822940-184ce501-faec-4f60-8b8d-867ba945b082.png">
+![2_NotacionCientifica](https://user-images.githubusercontent.com/117534483/201822901-e9624a1b-2730-488d-864c-a6a95c4fb795.png)
+
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
